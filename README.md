@@ -1,21 +1,38 @@
-# eBook App - Flutter UI
+## 📋 Getting Started
 
-## [Watch it on YouTube](https://youtu.be/ACdraZRANaU)
+This project is a starting point for a Flutter application.
 
-<!-- **Packages we are using:**
+A few resources to get you started if this is your first Flutter project:
 
-- flutter_svg: [link](https://pub.dev/packages/flutter_svg) -->
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-<!-- **Fonts**
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 
-- Poppins [link](https://fonts.google.com/specimen/Poppins) -->
+## 🚴‍♂️ How to Use 
 
-**UI Credit**
+**Step 1:**
 
-- Design by: Peeely [link](https://www.uplabs.com/posts/free-book-reading-app)
+Download or clone this repo by using the link below:
 
-Flamingo is an eBook (reading book) app design by flutter, at home page it shows you some recommended books, also the book of the day. At the bottom you gonna find your most recent book that you read. On details page book info with it's chapters. note that this is UI only.
+```
+https://github.com/Gyaan-Portal/Gyaan-Portal-App.git
+```
 
-### eBook App Final UI
+**Step 2:**
 
-![App UI](/attachment.png)
+Go to project root and execute the following command in console to get the required dependencies: 
+
+```
+flutter pub get 
+```
+
+**Step 3:**
+
+Use the following command to run your Flutter app on a connected device or simulator.
+
+```
+flutter run
+```
