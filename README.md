@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/Gyaan-Portal/Gyaan-Portal-App.git
+https://github.com/Shanu1515/BooksPad_App.git
 ```
 
 **Step 2:**
